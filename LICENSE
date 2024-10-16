@@ -2,6 +2,7 @@
 
 The following files in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License:
 
+- utilsLambda.py
 - MarketPriceofRiskGit.ipynb
 
 All other files, including [list some examples of excluded files], are not covered by this license. Please see the NOTICE file for more information on the licensing of other components.
